@@ -69,6 +69,7 @@
 		E10E1AD32B3465430058A26D /* GQPaymentDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GQPaymentDelegate.swift; sourceTree = "<group>"; };
 		E10E1AD52B3AD2AB0058A26D /* WebDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebDelegate.swift; sourceTree = "<group>"; };
 		E10E1AD72B3AE4060058A26D /* Razorpay.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = Razorpay.xcframework; path = "Pods/razorpay-pod/Pod/Razorpay.xcframework"; sourceTree = "<group>"; };
+		E1DD9DBC2B3AF4AE0059FDA9 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +117,7 @@
 		E10E1A5C2B3428450058A26D = {
 			isa = PBXGroup;
 			children = (
+				E1DD9DBC2B3AF4AE0059FDA9 /* Package.swift */,
 				E10E1A682B3428450058A26D /* AviSampleSDK */,
 				E10E1A672B3428450058A26D /* Products */,
 				32B247266A79D1373BF63691 /* Pods */,
